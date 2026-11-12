@@ -1,0 +1,4 @@
+small shared instances: 150 checked exactly; ILP >= A*(B) in every world, OPT <= A*(B) + E[F]; max OPT - E[U(ILP)] = 0.600
+epa: 120 instance-worlds; ILP below A*(B): 0; any policy above A*(B)+F: 0
+holdout: 960 instance-worlds; ILP below A*(B): 0; any policy above A*(B)+F: 0
+catalog: 360 instance-worlds; ILP below A*(B): 0; any policy above A*(B)+F: 0

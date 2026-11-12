@@ -1,0 +1,22 @@
+holdout   holdout_n25          ILP=20.425 G3=20.775 cadreF=20.654 | ILP-G3 -0.350 [-0.739,+0.039] | ILP-best -0.229 [-0.660,+0.202] | ILP s/run 0.144 | non-optimal solves 0
+holdout   holdout_n50          ILP=41.673 G3=42.075 cadreF=41.996 | ILP-G3 -0.402 [-0.687,-0.117] | ILP-best -0.323 [-0.640,-0.006] | ILP s/run 0.259 | non-optimal solves 0
+catalog   catalog_dense        ILP=24.358 G3=23.675 cadreF=23.517 | ILP-G3 +0.683 [+0.420,+0.947] | ILP-best +0.842 [+0.574,+1.109] | ILP s/run 0.141 | non-optimal solves 0
+catalog   catalog_hetero       ILP=23.050 G3=22.667 cadreF=22.658 | ILP-G3 +0.383 [+0.113,+0.654] | ILP-best +0.392 [+0.096,+0.688] | ILP s/run 0.270 | non-optimal solves 0
+catalog   catalog_sparse       ILP=21.250 G3=21.025 cadreF=21.092 | ILP-G3 +0.225 [-0.380,+0.830] | ILP-best +0.158 [-0.380,+0.696] | ILP s/run 0.388 | non-optimal solves 0
+stress    stress_R1_sparse     ILP=25.000 G3=24.970 myopic=25.000 | ILP-G3 +0.030 [-0.033,+0.093] | ILP-best +0.000 [+0.000,+0.000] | ILP s/run 0.186 | non-optimal solves 0
+stress    stress_R2_complement ILP=25.000 G3=23.105 obligation_density=25.000 | ILP-G3 +1.895 [+1.273,+2.517] | ILP-best +0.000 [+0.000,+0.000] | ILP s/run 0.037 | non-optimal solves 0
+stress    stress_R3_hetero     ILP=25.000 G3=24.985 cadreF=24.985 | ILP-G3 +0.015 [-0.008,+0.038] | ILP-best +0.015 [-0.008,+0.038] | ILP s/run 0.177 | non-optimal solves 0
+stress    stress_R4_hub        ILP=25.000 G3=24.340 obligation_density=25.000 | ILP-G3 +0.660 [+0.302,+1.018] | ILP-best +0.000 [+0.000,+0.000] | ILP s/run 0.035 | non-optimal solves 0
+pm25      epa_n25              ILP=19.333 G3=19.050 obligation_density=17.567 | ILP-G3 +0.283 [+0.050,+0.517] | ILP-best +1.767 [+1.262,+2.271] | ILP s/run 0.125 | non-optimal solves 0
+pm25      epa_n50              ILP=41.650 G3=41.283 obligation_density=38.983 | ILP-G3 +0.367 [-0.025,+0.759] | ILP-best +2.667 [+2.144,+3.189] | ILP s/run 0.626 | non-optimal solves 0
+ozone     epa_n25              ILP=20.483 G3=20.133 cadreF=19.450 | ILP-G3 +0.350 [+0.149,+0.551] | ILP-best +1.033 [+0.603,+1.464] | ILP s/run 0.108 | non-optimal solves 0
+ozone     epa_n50              ILP=43.717 G3=43.333 obligation_density=42.433 | ILP-G3 +0.383 [+0.193,+0.574] | ILP-best +1.283 [+0.868,+1.698] | ILP s/run 0.519 | non-optimal solves 0
+tieredM10 epa_n25              ILP=19.133 G3=18.317 obligation_density=16.933 | ILP-G3 +0.817 [+0.550,+1.084] | ILP-best +2.200 [+1.682,+2.718] | ILP s/run 0.120 | non-optimal solves 0
+tieredM10 epa_n50              ILP=41.083 G3=39.367 obligation_density=37.817 | ILP-G3 +1.717 [+1.202,+2.231] | ILP-best +3.267 [+2.688,+3.845] | ILP s/run 0.484 | non-optimal solves 0
+tieredM5  epa_n25              ILP=19.133 G3=18.333 obligation_density=16.933 | ILP-G3 +0.800 [+0.540,+1.060] | ILP-best +2.200 [+1.682,+2.718] | ILP s/run 0.103 | non-optimal solves 0
+tieredM5  epa_n50              ILP=41.067 G3=39.333 obligation_density=37.817 | ILP-G3 +1.733 [+1.208,+2.258] | ILP-best +3.250 [+2.674,+3.826] | ILP s/run 0.499 | non-optimal solves 0
+n200      n200                 ILP=170.517 G3=172.733 cadreF=172.467 | ILP-G3 -2.217 [-5.708,+1.275] | ILP-best -1.950 [-5.369,+1.469] | ILP s/run 7.597 | non-optimal solves 0
+pm25 25 ILP 19.33 two-step 18.68 ILP-two +0.65 [+0.36,+0.94]
+pm25 50 ILP 41.65 two-step 40.58 ILP-two +1.07 [+0.60,+1.53]
+ozone 25 ILP 20.48 two-step 20.07 ILP-two +0.42 [-0.07,+0.90]
+ozone 50 ILP 43.72 two-step 43.13 ILP-two +0.58 [+0.18,+0.98]
