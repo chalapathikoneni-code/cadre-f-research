@@ -1,0 +1,18 @@
+n200 {'cadreF': 172.47, 'myopic': 170.22, 'obligation_density': 146.52} G3 172.73 G3-F +0.27 [+0.00,+0.53]
+pm25 25 G3 19.05 two-step 18.68 G3-two +0.37 [+0.03,+0.70]
+pm25 50 G3 41.28 two-step 40.58 G3-two +0.70 [+0.21,+1.19]
+ozone 25 G3 20.13 two-step 20.07 G3-two +0.07 [-0.45,+0.59]
+ozone 50 G3 43.33 two-step 43.13 G3-two +0.20 [-0.26,+0.66]
+out/G3_catalog.csv {'catalog_sparse': 0.084, 'catalog_dense': 0.034, 'catalog_hetero': 0.059}
+out/G3_holdout.csv {'holdout_n25': 0.028, 'holdout_n50': 0.117}
+out/G3_n200_8100.csv {'n200': 5.765}
+out/G3_n200_8101.csv {'n200': 5.736}
+out/G3_n200_8102.csv {'n200': 4.554}
+out/G3_n200_8103.csv {'n200': 7.274}
+out/G3_n200_8104.csv {'n200': 5.491}
+out/G3_n200_8105.csv {'n200': 4.594}
+out/G3_ozone.csv {'epa_n25': 0.01, 'epa_n50': 0.039}
+out/G3_pm25.csv {'epa_n25': 0.013, 'epa_n50': 0.063}
+out/G3_stress.csv {'stress_R1_sparse': 0.077, 'stress_R2_complement': 0.067, 'stress_R3_hetero': 0.156, 'stress_R4_hub': 0.037}
+out/G3_tieredM10.csv {'epa_n25': 0.009, 'epa_n50': 0.051}
+out/G3_tieredM5.csv {'epa_n25': 0.01, 'epa_n50': 0.058}

@@ -1,0 +1,8 @@
+epa n50: CADRE-F 0.0376s  CADRE-G 0.0301s  ratio 0.8x  (60 instances)
+holdout n50: CADRE-F 0.0388s  CADRE-G 0.0823s  ratio 2.1x  (12 instances)
+n200 n200: CADRE-F 1.0889s  CADRE-G 3.7754s  ratio 3.5x  (1 instances)
+n200 n200: CADRE-F 1.0473s  CADRE-G 4.0336s  ratio 3.9x  (1 instances)
+n200 n200: CADRE-F 0.8446s  CADRE-G 3.2957s  ratio 3.9x  (1 instances)
+n200 n200: CADRE-F 1.2679s  CADRE-G 4.7607s  ratio 3.8x  (1 instances)
+n200 n200: CADRE-F 0.9915s  CADRE-G 3.7982s  ratio 3.8x  (1 instances)
+n200 n200: CADRE-F 1.1199s  CADRE-G 3.1110s  ratio 2.8x  (1 instances)

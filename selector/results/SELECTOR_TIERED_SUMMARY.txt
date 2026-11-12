@@ -1,0 +1,26 @@
+### tiered M=10
+== epa_n25 (60 instances; selection 0.27s/instance)
+   means: cadreF=15.817  myopic=14.683  obligation_density=16.933  selector=17.383
+   picks: cadreF:30, obligation_density:19, myopic:11
+   SEL-cadreF: +1.567 [+0.892,+2.242]
+   SEL-myopic: +2.700 [+1.633,+3.767]
+   SEL-obligation_density (best fixed): +0.450 [+0.140,+0.760]
+== epa_n50 (60 instances; selection 1.27s/instance)
+   means: cadreF=36.250  myopic=31.700  obligation_density=37.817  selector=37.917
+   picks: obligation_density:29, cadreF:23, myopic:8
+   SEL-cadreF: +1.667 [+0.849,+2.484]
+   SEL-myopic: +6.217 [+4.491,+7.943]
+   SEL-obligation_density (best fixed): +0.100 [-0.512,+0.712]
+### tiered M=5
+== epa_n25 (60 instances; selection 0.27s/instance)
+   means: cadreF=15.683  myopic=14.667  obligation_density=16.933  selector=17.383
+   picks: cadreF:30, obligation_density:19, myopic:11
+   SEL-cadreF: +1.700 [+0.948,+2.452]
+   SEL-myopic: +2.717 [+1.645,+3.789]
+   SEL-obligation_density (best fixed): +0.450 [+0.140,+0.760]
+== epa_n50 (60 instances; selection 1.28s/instance)
+   means: cadreF=35.367  myopic=31.717  obligation_density=37.817  selector=37.900
+   picks: obligation_density:32, cadreF:19, myopic:9
+   SEL-cadreF: +2.533 [+1.542,+3.525]
+   SEL-myopic: +6.183 [+4.456,+7.911]
+   SEL-obligation_density (best fixed): +0.083 [-0.513,+0.680]
