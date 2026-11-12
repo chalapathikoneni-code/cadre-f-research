@@ -1,0 +1,2 @@
+epa_replay/tables: clusters 5420, with contradictory outcomes 52 (0.96%); pairs in such clusters 1.29%; instances affected 41/120
+epa_replay/oz_tables: clusters 4256, with contradictory outcomes 83 (1.95%); pairs in such clusters 2.46%; instances affected 59/120

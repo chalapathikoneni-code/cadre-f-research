@@ -1,0 +1,11 @@
+host: 16-vCPU Intel(R) Xeon(R) Platinum 8259CL CPU @ 2.50GHz (host name removed)
+Wed Nov 11 06:00:28 UTC 2026
+holdout n50: CADRE-F 0.0363s  SEL 1.5004s  ratio 41.3x  (12 instances)
+epa n50: CADRE-F 0.0356s  SEL 1.2387s  ratio 34.8x  (60 instances)
+n200 n50: CADRE-F 1.0482s  SEL 46.4190s  ratio 44.3x  (1 instances)
+n200 n50: CADRE-F 1.0600s  SEL 47.0328s  ratio 44.4x  (1 instances)
+n200 n50: CADRE-F 0.8035s  SEL 35.3438s  ratio 44.0x  (1 instances)
+n200 n50: CADRE-F 1.2550s  SEL 57.2909s  ratio 45.7x  (1 instances)
+n200: CADRE-F 0.9969s  SEL 42.1419s  ratio 42.3x  (1 instances)
+n200: CADRE-F 0.8221s  SEL 37.3420s  ratio 45.4x  (1 instances)
+TIMING_DONE

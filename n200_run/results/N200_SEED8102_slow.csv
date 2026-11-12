@@ -1,0 +1,3 @@
+nq,seed,variant,decided_mean,decided_per_world,plan_ms_mean,plan_ms_median,plan_ms_p95,plan_ms_total
+200,8102,cadreF_timeref,167.4,168 165 173 174 165 166 170 168 165 160,790.42,779.27,899.7,7904.2
+200,8102,two_step_unrestricted,171.8,173 169 173 177 171 169 173 173 173 167,343672.21,343078.15,357118.38,3436722.1
