@@ -1,0 +1,23 @@
+{
+  "budget": "generator 0.40 * total evidence costs",
+  "family": [
+    "sparse",
+    "dense",
+    "hetero"
+  ],
+  "generator": "gen2_independent.py",
+  "instances_per_family": 12,
+  "paired_worlds_per_instance": 10,
+  "policy_set": [
+    "CADRE-F",
+    "Expected-plan ranking",
+    "Plan-following",
+    "CPC ranking",
+    "CPC",
+    "Myopic"
+  ],
+  "seeds": "700001 + 1000*family_index + instance_index",
+  "selection": "none; policies imported unchanged; report all results",
+  "stats": "paired t interval on per-instance mean over paired worlds; df=11; exploratory unadjusted",
+  "world_seed": "base_seed + 555000"
+}

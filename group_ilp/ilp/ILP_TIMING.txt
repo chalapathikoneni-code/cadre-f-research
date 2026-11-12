@@ -1,0 +1,2 @@
+PM2.5 n25 sequential s/run: CADRE-F 0.0085 CADRE-G 0.0065 ILP 0.0425  ILP/G 6.6x
+PM2.5 n50 sequential s/run: CADRE-F 0.0355 CADRE-G 0.0298 ILP 0.2468  ILP/G 8.3x

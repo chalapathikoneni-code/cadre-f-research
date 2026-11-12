@@ -1,0 +1,9 @@
+family,contrast,mean_diff,ci_lo,ci_hi,F_mean,base_mean,wins,ties,F_sec,base_sec,F_budget_util,base_budget_util
+sparse,cadreF-cadre,1.267,0.636,1.898,21.092,19.825,11,1,0.0109,0.0256,0.939,0.958
+sparse,cadreF-myopic,0.5,0.195,0.805,21.092,20.592,10,2,0.0109,0.0096,0.939,0.946
+dense,cadreF-cadre,0.983,0.51,1.456,23.517,22.533,10,2,0.0048,0.0061,0.91,0.931
+dense,cadreF-myopic,-0.0,-0.151,0.151,23.517,23.517,6,3,0.0048,0.0044,0.91,0.919
+hetero,cadreF-cadre,1.55,0.369,2.731,22.658,21.108,11,0,0.0061,0.0108,0.861,0.896
+hetero,cadreF-myopic,0.025,-0.167,0.217,22.658,22.633,6,3,0.0061,0.0056,0.861,0.824
+familyG_n10,control,,,,,OPT=10,,,,,,
+familyG_n50,control,,,,,OPT=50,,,,,,
